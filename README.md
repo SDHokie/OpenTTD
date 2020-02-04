@@ -1,0 +1,2 @@
+# OpenTTD
+OpenTTD Saves
